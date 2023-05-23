@@ -1,9 +1,16 @@
 body {
-  background-color: rgb(66, 31, 31);
+  background-color: oldlace;
 }
 h1 {
   text-align: center;
 }
 footer {
   text-align: center;
+}
+a {
+  color: palevioletred;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
