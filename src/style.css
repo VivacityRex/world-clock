@@ -25,6 +25,7 @@ select {
 a {
   color: rgb(214, 112, 206);
   text-decoration: none;
+  opacity: 0.7;
 }
 a:hover {
   text-decoration: underline;
